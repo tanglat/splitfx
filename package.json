@@ -1,0 +1,44 @@
+{
+    "name": "@tanglat/splitfx",
+    "version": "1.0.0",
+    "description": "A JavaScript plugin for splitting and animating text.",
+    "keywords": [
+        "splitfx",
+        "text-animation",
+        "text-splitting",
+        "split-text",
+        "text-effects",
+        "text-reveal",
+        "character-animation",
+        "word-animation",
+        "stagger",
+        "javascript",
+        "vanilla-js",
+        "frontend",
+        "scroll-animation",
+        "hover-animation",
+        "click-animation",
+        "animation-library"
+    ],
+    "author": "Youssef Benghazy",
+    "license": "SEE LICENSE IN LICENSE",
+    "homepage": "https://tanglat.github.io/splitfx/",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tanglat/splitfx.git"
+    },
+    "files": [
+        "dist",
+        "LICENSE",
+        "README.md",
+        "CHANGELOG.md"
+    ],
+    "type": "module",
+    "main": "./dist/es/splitfx.min.js",
+    "exports": {
+        ".": "./dist/es/splitfx.min.js"
+    },
+    "bugs": {
+        "url": "https://github.com/tanglat/splitfx/issues"
+    }
+}

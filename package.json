@@ -33,10 +33,16 @@
         "README.md",
         "CHANGELOG.md"
     ],
-    "type": "module",
-    "main": "./dist/es/splitfx.min.js",
+    "main": "./dist/umd/splitfx.min.js",
+    "module": "./dist/es/splitfx.min.js",
+    "browser": "./dist/umd/splitfx.min.js",
+    "unpkg": "./dist/umd/splitfx.min.js",
+    "jsdelivr": "./dist/umd/splitfx.min.js",
     "exports": {
-        ".": "./dist/es/splitfx.min.js"
+        ".": {
+            "import": "./dist/es/splitfx.min.js",
+            "default": "./dist/es/splitfx.min.js"
+        }
     },
     "bugs": {
         "url": "https://github.com/tanglat/splitfx/issues"

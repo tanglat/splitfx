@@ -12,3 +12,7 @@ and this project adheres to Semantic Versioning.
 - Animate text on **scroll**, **window load**, **hover**, or **click**.
 - A variety of **built-in animations**.
 - Full control over **animation timing**, **stagger**, **stagger direction**, and **easing**.
+
+## [1.0.1] - 2026-07-28
+### Changed
+- Improved package entry points for npm, bundlers, jsDelivr, and unpkg.

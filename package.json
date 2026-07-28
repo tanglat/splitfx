@@ -1,6 +1,6 @@
 {
     "name": "@tanglat/splitfx",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A JavaScript plugin for splitting and animating text.",
     "keywords": [
         "splitfx",

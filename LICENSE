@@ -1,131 +1,161 @@
 # SplitFX Plugin License Agreement
-Last Updated: July 26, 2026
+
+Last Updated: August 9, 2026
 
 ## 1. Agreement Overview
-This License Agreement (“Agreement”) is a legal contract between the Licensor (the developer of the SplitFX plugin) and the Licensee (the individual or entity obtaining a copy of the software).
+
+This License Agreement (“Agreement”) is a legal contract between the Licensor (the developer of the SplitFX plugin) and the Licensee (the individual or entity obtaining a copy of the Software).
 
 By downloading, installing, or using SplitFX (“the Software”), the Licensee agrees to be bound by the terms and conditions of this Agreement. If the Licensee does not agree to these terms, they must not use, copy, modify, or distribute the Software in any form.
 
-This Agreement outlines the rights and restrictions granted to the Licensee under three available license types: Free, Regular, and Extended.
+This Agreement outlines the rights and restrictions granted to the Licensee under three available License Types: Free, Regular, and Extended.
 
 ## 2. Definitions
+
 For the purposes of this Agreement, the following terms shall have the meanings defined below:
 
-* **Software:** refers to the SplitFX JavaScript plugin, including all files, documentation, scripts, updates, and examples provided by the Licensor.
-* **Licensor:** refers to the developer of the SplitFX plugin, who owns all rights, title, and interest in the Software.
-* **Licensee:** refers to the individual or entity obtaining a copy of the Software under one of the available license types (Free, Regular, or Extended).
-* **Project:** refers to a website, application, template, theme, or any other work that uses or integrates the Software, either for personal or commercial purposes.
-* **Non-Commercial Project:** any project that does not generate income directly or indirectly, is not built for a client, and is not used for business purposes.
+* **Software:** Refers to the SplitFX JavaScript plugin, including all files, documentation, scripts, updates, and examples provided by the Licensor.
+* **Licensor:** Refers to the developer of the Software, who owns all rights, title, and interest in the Software.
+* **Licensee:** Refers to the individual or entity obtaining a copy of the Software under one of the available License Types (Free, Regular, or Extended).
+* **Project:** Refers to a website, application, template, theme, or any other work that uses or integrates the Software, either for personal or commercial purposes.
+* **Non-Commercial Project:** Any project that does not generate income directly or indirectly, is not built for a client, and is not used for business purposes.
 * **Commercial Project:** Refers to any project that is created for business, company, or client purposes, or that generates income either directly or indirectly. Examples include websites, apps, or digital products built for clients, used in marketing campaigns, or sold to customers.
-* **Commercial Use:** means using the Software in any project intended for financial gain or business purposes, including client projects, paid products, SaaS applications, or templates for sale.
-* **End Product:** A customized website, application, or theme created by the Licensee that incorporates the Software.
+* **Commercial Use:** Using the Software in any Project intended for financial gain or business purposes, including client projects, commercial websites, commercial applications, or products offered for sale or license.
+* **End Product:** A website, application, theme, template, or other software product created by the Licensee that incorporates the Software.
 * **End User:** The final individual or entity that consumes or interacts with the finished End Product created by the Licensee.
-* **Distribution:** The act of providing the Plugin to third parties as an integrated and inseparable component of a larger, original End Product (such as a website or application).
-* **Redistribution:** The act of making the Plugin, in whole or in part, available to third parties as a standalone product, reusable component, or development resource. This includes (but is not limited to) sharing, selling, sublicensing, publishing, or otherwise exposing the Plugin's source code, compiled files, logic, or assets in a way that allows it to be extracted, reused, or repurposed outside of a single End Product.
-* **Resale:** Refers to selling or including the SplitFX plugin, whether modified or unmodified, as part of another product, template, or package. This includes adding it to items sold on marketplaces, bundled software, or any product offered for sale to others. In short, if the plugin itself is part of something being sold, it counts as resale.
-* **Attribution:** refers to giving proper credit to the Licensor whenever the Software is used in a project, as required by the license type. You should mention the plugin name and link to the official website. Example: `<p>Text animation powered by <a href="https://tanglat.github.io/splitfx/">SplitFX</a></p>`
+* **Distribution:** The act of providing the Software to third parties only as part of a permitted End Product, as allowed by the applicable License Type.
+* **Redistribution:** The act of making the Software, in whole or in part, available to third parties as a standalone product, reusable component, or development resource. This includes (but is not limited to) sharing, selling, sublicensing, publishing, or otherwise exposing the Software's source code, compiled files, logic, or assets in a way that allows it to be extracted, reused, or repurposed outside of a permitted End Product.
+* **Resale:** Refers to selling or including the Software, whether modified or unmodified, as part of another product, template, or package. This includes adding it to items sold on marketplaces, bundled software, or any product offered for sale to others. In short, if the Software itself is part of something being sold, it counts as Resale.
+* **Attribution:** Refers to giving proper credit to the Licensor when the Software is used in a Project. When providing attribution, you should mention the Software name and link to the official website. Example: `<p>Text animation powered by <a href="https://tanglat.github.io/splitfx/">SplitFX</a></p>`
 
 ## 3. License Types
-The SplitFX plugin is available under three license tiers: Free, Regular, and Extended. The Licensee must choose the appropriate license according to their intended use.
+
+The Software is available under three License Types: Free, Regular, and Extended. The Licensee must choose the appropriate License Type according to their intended use.
 
 ### 3.1 Free License
-Perfect for personal use, learning, or prototyping before committing to a commercial project.
+
+Perfect for personal use, learning, or prototyping before committing to a Commercial Project.
 
 * **What's Included:**
-    * Use in non-commercial, personal projects (e.g., a personal portfolio or hobby site).
-    * **Technical Support:** Community support only (GitHub Issues or Discord). The Licensor is under no obligation to provide a response or resolution.
-    * Attribution is appreciated.
+
+  * Use in Non-Commercial Projects (e.g., a personal portfolio or hobby site).
+  * **Technical Support:** Community support only (GitHub Issues or Discord). The Licensor is under no obligation to provide a response or resolution.
+  * Attribution is not required but is appreciated.
 
 * **Restrictions:**
-    * **No Commercial Use:** May not be used in any project that generates revenue or is used for a business.
-    * **No Redistribution:** You may not redistribute, resell, share, sublicense, or include SplitFX in any standalone or reusable product, including but not limited to templates, libraries, kits, or source code collections.
+
+  * **No Commercial Use:** May not be used in any Project that generates revenue or is used for a business.
+  * **No Redistribution:** You may not redistribute, resell, sublicense, or include the Software in any standalone or reusable product, including but not limited to templates, libraries, kits, or source code collections.
 
 ### 3.2 Regular License
-For use in one (1) commercial end product (such as a single website or app) for yourself or a client. The end product must be a final, fixed implementation.
+
+For use in one (1) Commercial End Product (such as a single website or app) for yourself or a client. The End Product must be a final, fixed implementation.
 
 * **What's Included:**
-    * **Single Commercial Project:** Use in one (1) commercial end product (your own or a single client's).
-    * **Technical Support:** Includes six (6) months of direct email assistance from the date of purchase.
-    * **License Transfer:** You may transfer the license to your client upon completion of the project.
-    * No attribution required.
+
+  * **Single Commercial Project:** You may use the Software in one (1) Commercial End Product for yourself or a single client.
+  * **Technical Support:** Includes six (6) months of direct email assistance from the date of purchase.
+  * **License Transfer:** Upon completion of the Project, you may transfer your license for that End Product to your client. Once transferred, you may no longer use that license for the transferred End Product.
+  * No attribution required.
 
 * **Restrictions:**
-    * **Single-Use Only:** Each unique project/website requires its own separate license.
-    * **No Reusable or Redistributable Products:** You may not include the Plugin in any product intended for resale, distribution, or reuse by multiple end users, including but not limited to themes, templates, UI kits, or libraries.
-    * **No Multi-User/SaaS:** Prohibited from use in products where multiple customers pay for access to a service (e.g., SaaS platforms or site builders).
+
+  * **Single-Use Only:** Each unique End Product requires its own separate License.
+  * **No Reusable or Redistributable Products:** You may not include the Software in any product intended for Resale, Distribution, or reuse by multiple End Users, including but not limited to themes, templates, UI kits, or libraries.
 
 ### 3.3 Extended License
-For use in one (1) commercial end product that is sold or licensed to multiple end users (e.g., a template, WordPress theme, or mobile app).
+
+For use in one (1) Commercial End Product that is sold or licensed to multiple End Users (e.g., a template, WordPress theme).
 
 * **What's Included:**
-    * **Resale & Distribution:** Include SplitFX in one (1) end product that is sold, licensed, or distributed to multiple end users (e.g., a website template, WordPress theme, or mobile app).
-    * **Technical Support:** Includes twelve (12) months of direct email assistance from the date of purchase.
-    * No attribution required.
+
+  * **Resale & Distribution:** You may include the Software in one (1) Commercial End Product that is sold or licensed to multiple End Users.
+  * **End User Rights:** End Users may use the Software only as part of that End Product. They do not receive a separate license to extract, reuse, redistribute, or include the Software in another product.
+  * **Technical Support:** Includes twelve (12) months of direct email assistance from the date of purchase.
+  * No attribution required.
 
 * **Restrictions:**
-    * **Product Limit:** Each unique commercial product (e.g., "Theme A" vs. "Theme B") requires its own separate Extended License.
-    * **No Standalone Redistribution:** You may not resell or share SplitFX as a standalone tool or asset. It must be integrated into a larger product.
-    * **No SaaS/Subscription Platforms:** This license does not cover use in "Software as a Service" (SaaS) platforms, site builders, or subscription-based applications.
 
-**Note on SaaS & Subscription Platforms:** The standard licenses (Free, Regular, and Extended) do not cover the use of SplitFX within "Software as a Service" (SaaS) platforms, site-builders, or any product where multiple end-users pay for access to a tool or service. If your project falls into these categories, a custom agreement is required.  
-Please contact us at [contact.tanglat@gmail.com](mailto:contact.tanglat@gmail.com?subject=SplitFX%20General%20Inquiry) to discuss tailored licensing options.
+  * **Product Limit:** Each unique Commercial Product (e.g., "Theme A" vs. "Theme B") requires its own separate Extended License.
+  * **No Standalone Redistribution:** You may not sell, resell, sublicense, or make the Software available as a standalone software product, library, development tool, or reusable asset. The Software must remain integrated into the licensed End Product.
 
+**Note on SaaS & Multi-Tenant Platforms:**  
+The Regular and Extended Licenses permit the use of the Software in standard commercial websites and applications, including typical SaaS products, provided the Software is used solely as part of the Licensee's own End Product. The Free License is limited to Non-Commercial Projects.
+
+These Licenses do not cover platforms that enable third parties to create, customize, publish, or distribute their own websites, applications, templates, themes, or other content using the Software (including, but not limited to, site builders, page builders, template generators, white-label platforms, or similar multi-tenant services). Such use requires a separate commercial agreement.
+
+For custom licensing inquiries, please contact [contact.tanglat@gmail.com](mailto:contact.tanglat@gmail.com?subject=SplitFX%20General%20Inquiry)
 
 ## 4. General Terms & Restrictions
-* **Ownership:** The Software is licensed, not sold. Ownership remains with the Licensor at all times.
+
+* **Ownership:** The Software, including all code, assets, and documentation, remains the property of the Licensor. No ownership rights are transferred to the Licensee under this Agreement.
 * **Exclusivity:** The SplitFX plugin, including all code, assets, and documentation, is the exclusive property of the developer.
-* **Grant of License:** The Licensee is granted a limited, non-exclusive license. No ownership rights are transferred.
-* **Authorship:** The Licensee may not claim ownership or authorship of the Software. Using the Software within a project does not grant the Licensee any copyright or ownership over the SplitFX code.
+* **Grant of License:** The Licensee is granted a limited, non-exclusive License. No ownership rights are transferred.
+* **Authorship:** The Licensee may not claim ownership or authorship of the Software. Using the Software within a Project does not grant the Licensee any copyright or ownership over the Software code.
 * **No Unauthorized Transfer:** Sublicensing, renting, or leasing is prohibited, except for the specific "Client Handoff" permitted in the Regular License.
-* **Plan Compliance:** Usage must strictly follow the rules of the chosen plan (Free, Regular, or Extended).
+* **License Compliance:** Usage must strictly follow the rules of the chosen License Type (Free, Regular, or Extended).
 * **Licensee Responsibility:** The Licensee is responsible for ensuring their staff or clients comply with this Agreement.
-* **No Redistribution:** The Licensee may not redistribute the Software, in whole or in part, in any form, whether modified or unmodified. Redistribution includes, but is not limited to, making the Software available as a standalone product, reusable component, library, or development resource, or in any manner that allows third parties to access, extract, reuse, or repurpose the Software outside of a permitted End Product. This restriction applies regardless of whether the Software is provided for free or for payment.
-* **No Extraction:** The end-user may not extract SplitFX for use outside of the original licensed project.
-* **No Unauthorized Development Access:** You may not provide the Software source files to third parties (contractors, external agencies, or other companies) for use in development projects outside of the specific End Product covered by your license.
-* **Logic Protection:** Reverse-engineering or attempting to extract the source logic for the purpose of redistribution or creating a competing product is strictly prohibited.
-* **Derivative Works:** You may not create derivative works based on SplitFX for the purpose of standalone distribution or resale. This includes "wrapping" the minified code in a new library, framework, or tool that competes with the original Software. SplitFX must always be integrated into a larger, original "End Product."
+* **No Unauthorized Redistribution:** The Licensee may not redistribute the Software, in whole or in part, as a standalone product, reusable component, library, development resource, or in any other manner that allows the Software to be extracted, reused, or repurposed outside of a permitted End Product. This restriction applies regardless of whether the Software is provided for free or for payment.
+* **No Extraction:** The End User may not extract the Software for use outside of the original licensed Project.
+* **No Unauthorized Development Access:** You may not provide the Software source files to third parties (contractors, external agencies, or other companies) for use in development projects outside of the specific End Product covered by your License.
+* **Logic Protection:** Reverse-engineering or attempting to extract the source logic for the purpose of Redistribution or creating a competing product is strictly prohibited.
+* **Derivative Works:** You may not create derivative works based on the Software for the purpose of standalone Redistribution or unauthorized Resale. This includes "wrapping" the minified code in a new library, framework, or tool that competes with the original Software. The Software must remain integrated into a permitted End Product.
 * **Acceptance:** By downloading or using the Software, the Licensee agrees to these terms.
 
 ## 5. Updates
+
 ### 5.1 Maintenance Updates
-Your purchase includes access to all Minor Updates and Bug Fixes (e.g., version 1.1 to 1.2) for the lifetime of the version purchased. These updates are intended to ensure compatibility with modern browsers and fix reported technical issues.
+
+Your purchase includes access to all Minor Updates and Bug Fixes released for the major version purchased (e.g., version 1.1 to 1.2) for the lifetime of that major version.
 
 ### 5.2 Major Versions
-Major Upgrades (e.g., version 1.x to 2.0) that include significant new features, complete rewrites, or architectural changes may be released as separate products and may require a new license purchase or an upgrade fee.
+
+Major Upgrades (e.g., version 1.x to 2.0) that include significant new features, complete rewrites, or architectural changes may be released as separate products and may require a new License purchase or an upgrade fee.
 
 ### 5.3 No Obligation
-While SplitFX is actively maintained, this license does not guarantee a schedule for future updates. Updates are released at the developer's discretion based on technical necessity and feature roadmaps.
+
+While SplitFX is actively maintained, this License does not guarantee a schedule for future updates. Updates are released at the developer's discretion based on technical necessity and feature roadmaps.
 
 ## 6. Technical Support
+
 ### 6.1 Support Scope
-Technical support is limited to assistance with the installation, configuration, and intended use of the Software as documented. Support is available exclusively to commercial license holders via the support email provided at the time of purchase.  
+
+Technical support is limited to assistance with the installation, configuration, and intended use of the Software as documented. Support is available exclusively to commercial License holders via the support email provided at the time of purchase.
 **To receive assistance, the Licensee must include their valid License Key in the subject line of the email (e.g., SplitFX Support Request [Your License Key]).**
 
 ### 6.2 Support Duration
-The duration of included technical support depends on the license tier purchased:
-* **Free License:** Does not include direct technical support or email assistance. Users are encouraged to use public community channels (such as GitHub Issues or Discord); however, The Licensor may participate in these channels but is under no obligation to provide a response or resolution.
+
+The duration of included technical support depends on the License Tier purchased:
+
+* **Free License:** Does not include direct technical support or email assistance. Users are encouraged to use public community channels (such as GitHub Issues or Discord); however, the Licensor may participate in these channels but is under no obligation to provide a response or resolution.
 * **Regular License:** Includes six (6) months of support from the date of purchase.
 * **Extended License:** Includes twelve (12) months of support from the date of purchase.
 
 ### 6.3 Exclusions
+
 Support does not include:
-* Customizing or modifying the Software's core logic for specific project requirements.
+
+* Customizing or modifying the Software's core logic for specific Project requirements.
 * Debugging the Licensee's custom CSS, JavaScript, or third-party libraries.
 * General web development or design consulting.
 * Integration services into specific CMS platforms or frameworks (e.g., React, WordPress, Vue).
 
 ## 7. Disclaimer of Warranty
-The SplitFX plugin is provided “as is” and “as available,” without any warranty of any kind, express or implied. The developer makes no guarantees that the Software will be error-free, uninterrupted, or fully compatible with all environments, browsers, or frameworks. To the maximum extent permitted by law, the developer disclaims all warranties, whether express, implied, or statutory including, but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+The Software is provided “as is” and “as available,” without any warranty of any kind, express or implied. The developer makes no guarantees that the Software will be error-free, uninterrupted, or fully compatible with all environments, browsers, or frameworks. To the maximum extent permitted by law, the developer disclaims all warranties, whether express, implied, or statutory including, but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
 ## 8. Limitation of Liability
-To the maximum extent permitted by applicable law, the developer of the SplitFX plugin shall not be liable for any indirect, incidental, special, consequential, or punitive damages including, but not limited to, loss of profits, data, revenue, or business opportunities arising out of or in connection with the use or inability to use the Software, even if the developer has been advised of the possibility of such damages.
+
+To the maximum extent permitted by applicable law, the developer of the Software shall not be liable for any indirect, incidental, special, consequential, or punitive damages including, but not limited to, loss of profits, data, revenue, or business opportunities arising out of or in connection with the use or inability to use the Software, even if the developer has been advised of the possibility of such damages.
 
 In no event shall the developer's total liability, whether in contract, tort, or otherwise, exceed the total amount paid by the Licensee for the Software. If the Licensee is using the Free version, the developer's liability shall be zero (0).
 
 The Licensee agrees that the developer shall not be held responsible for any issues resulting from improper installation, modification, or misuse of the Software.
 
 ## 9. Refunds
-Because the SplitFX plugin is a digital product, all sales are final. Once the Software has been downloaded, accessed, or activated, no refunds will be issued. The Licensee is encouraged to evaluate the Software using the Free License before making a purchase.
+
+SplitFX is a digital product. All sales are final, and no refunds will be issued. Customers are encouraged to evaluate the Software under the Free License and review the documentation, features, and License Terms before making a purchase.
 
 ## 10. Termination
+
 This License shall terminate automatically if the Licensee fails to comply with any of its terms. Upon termination, the Licensee must immediately cease all use of the Software, destroy all copies in their possession, and forfeit access to all private support channels including email assistance and verified roles within the official Discord community. No refunds or compensation shall be provided in the event of termination due to a breach of this Agreement.

@@ -16,3 +16,7 @@ and this project adheres to Semantic Versioning.
 ## [1.0.1] - 2026-07-28
 ### Changed
 - Improved package entry points for npm, bundlers, jsDelivr, and unpkg.
+
+## [1.0.2] - 2026-08-09
+### Changed
+- Clarified and reorganized the plugin license.

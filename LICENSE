@@ -26,7 +26,7 @@ For the purposes of this Agreement, the following terms shall have the meanings 
 * **Distribution:** The act of providing the Software to third parties only as part of a permitted End Product, as allowed by the applicable License Type.
 * **Redistribution:** The act of making the Software, in whole or in part, available to third parties as a standalone product, reusable component, or development resource. This includes (but is not limited to) sharing, selling, sublicensing, publishing, or otherwise exposing the Software's source code, compiled files, logic, or assets in a way that allows it to be extracted, reused, or repurposed outside of a permitted End Product.
 * **Resale:** Refers to selling or including the Software, whether modified or unmodified, as part of another product, template, or package. This includes adding it to items sold on marketplaces, bundled software, or any product offered for sale to others. In short, if the Software itself is part of something being sold, it counts as Resale.
-* **Attribution:** Refers to giving proper credit to the Licensor when the Software is used in a Project. When providing attribution, you should mention the Software name and link to the official website. Example: `<p>Text animation powered by <a href="https://tanglat.github.io/splitfx/">SplitFX</a></p>`
+* **Attribution:** Refers to giving proper credit to the Licensor when the Software is used in a Project. When providing attribution, you should mention the Software name and link to the official website. Example: `<p>Text animation powered by <a href="https://splitfx.pages.dev/">SplitFX</a></p>`
 
 ## 3. License Types
 

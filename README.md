@@ -4,12 +4,12 @@ A JavaScript plugin for splitting and animating text.
 
 ## Links
 
-- **[Website](https://tanglat.github.io/splitfx/)**
-- **[Demo Projects](https://tanglat.github.io/splitfx/#demo-projects)**
-- **[Demos](https://tanglat.github.io/splitfx/demos/)**
-- **[Documentation](https://tanglat.github.io/splitfx/docs/latest/)**
-- **[SplitFX Studio](https://tanglat.github.io/splitfx/studio/)**
-- **[Licensing](https://tanglat.github.io/splitfx/license.html)**
+- **[Website](https://splitfx.pages.dev/)**
+- **[Demo Projects](https://splitfx.pages.dev/#demo-projects)**
+- **[Demos](https://splitfx.pages.dev/demos/)**
+- **[Documentation](https://splitfx.pages.dev/docs/latest/)**
+- **[SplitFX Studio](https://splitfx.pages.dev/studio/)**
+- **[Licensing](https://splitfx.pages.dev/license)**
 
 ## Overview
 
@@ -52,13 +52,13 @@ SplitFX is a JavaScript plugin that splits the text of HTML elements into indivi
 
 ## Resources
 
-- **[Demos](https://tanglat.github.io/splitfx/demos/)**  
+- **[Demos](https://splitfx.pages.dev/demos/)**  
     Get inspired by ready-made text animation demos.
 
-- **[Docs](https://tanglat.github.io/splitfx/docs/latest/)**  
+- **[Docs](https://splitfx.pages.dev/docs/latest/)**  
     Clear and structured docs to help you understand and use SplitFX.
 
-- **[Studio](https://tanglat.github.io/splitfx/studio/)**  
+- **[Studio](https://splitfx.pages.dev/studio/)**  
     Build, test, and export animations with the SplitFX Studio.
 
 ## Quick Start
@@ -99,4 +99,4 @@ const textAnimator = new SplitFX({
 textAnimator.animateOnScroll(heading);
 ```
 
-For complete documentation, more demos, visit our **[Website](https://tanglat.github.io/splitfx/)**.
+For complete documentation, more demos, visit our **[Website](https://splitfx.pages.dev/)**.

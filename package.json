@@ -1,6 +1,6 @@
 {
     "name": "@tanglat/splitfx",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A JavaScript plugin for splitting and animating text.",
     "keywords": [
         "splitfx",
@@ -22,7 +22,7 @@
     ],
     "author": "Youssef Benghazy",
     "license": "SEE LICENSE IN LICENSE",
-    "homepage": "https://tanglat.github.io/splitfx/",
+    "homepage": "https://splitfx.pages.dev/",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/tanglat/splitfx.git"

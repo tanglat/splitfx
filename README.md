@@ -1,6 +1,6 @@
 # SplitFX
 
-A JavaScript plugin for splitting and animating text.
+JavaScript text animation plugin that splits text into characters and words and animates them.
 
 ## Links
 
@@ -13,11 +13,11 @@ A JavaScript plugin for splitting and animating text.
 
 ## Overview
 
-SplitFX is a JavaScript plugin that splits the text of HTML elements into individual units (characters and words) and animates them.
+SplitFX is a JavaScript text animation plugin that splits the text of HTML elements into individual units (characters and words) and animates them.
 
 ## Features
 
-- **Animate by Chars or Words**  
+- **Animate Text by Chars or Words**  
     You can choose to animate text by chars or words.
 
 - **Multiple Trigger Options**  
@@ -26,17 +26,17 @@ SplitFX is a JavaScript plugin that splits the text of HTML elements into indivi
 - **Full Animation Control**  
     Full control over animation timing, stagger, stagger direction, and easing.
 
-- **A Variety of Built-in Animations**  
-    Choose from a variety of built-in animations such as fade, zoom in, and more.
+- **A Variety of Built-in Text Animations**  
+    Choose from a variety of built-in text animations such as fade, typeWriter, and more.
 
-- **Use Your Custom Animations**  
-    Build and use your own animations to create text effects tailored to your needs.
+- **Use Your Custom Text Animations**  
+    Build and use your own animations to create text animations tailored to your needs.
 
 - **Different Stagger Directions**  
-    Control the animation flow with stagger directions like forward, backward, center-out, random, and more.
+    Control the animation flow with stagger directions such as forward, backward, centerOut, random, and more.
 
 - **Sequential Text Animations**  
-    Run text animations step by step in a defined sequence, just like the hero of this page and each demo project.
+    Run text animations step by step in a defined sequence, just like the hero of this page.
 
 - **Supports Nested Elements**  
     Split and animate the text of HTML elements even when they contain nested elements.
@@ -47,19 +47,16 @@ SplitFX is a JavaScript plugin that splits the text of HTML elements into indivi
 - **No Dependencies**  
     Built specifically for text animations with zero external dependencies.
 
-- **SEO-friendly**  
-    Works on the text you already have in your HTML, so search engines can read it.
-
 ## Resources
 
-- **[Demos](https://splitfx.pages.dev/demos/)**  
-    Get inspired by ready-made text animation demos.
+- **[SplitFX Demos](https://splitfx.pages.dev/demos/)**  
+    Get inspired by ready-made text animation demos built with SplitFX.
 
-- **[Docs](https://splitfx.pages.dev/docs/latest/)**  
-    Clear and structured docs to help you understand and use SplitFX.
+- **[SplitFX Documentation](https://splitfx.pages.dev/docs/latest/)**  
+    Find everything you need to create text animations with SplitFX.
 
-- **[Studio](https://splitfx.pages.dev/studio/)**  
-    Build, test, and export animations with the SplitFX Studio.
+- **[SplitFX Studio](https://splitfx.pages.dev/studio/)**  
+    Create, customize, and preview text animations with SplitFX Studio.
 
 ## Quick Start
 

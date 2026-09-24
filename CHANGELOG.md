@@ -5,6 +5,10 @@ All notable changes to SplitFX will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
+## [1.0.4] - 2026-09-24
+### Changed
+- Updated the README and package metadata.
+
 ## [1.0.3] - 2026-08-09
 ### Changed
 - Changed the changelog to descending order.
@@ -23,5 +27,5 @@ and this project adheres to Semantic Versioning.
 ### Added
 - Split and animate text by **characters** or **words**.
 - Animate text on **scroll**, **window load**, **hover**, or **click**.
-- A variety of **built-in animations**.
+- A variety of **built-in text animations**.
 - Full control over **animation timing**, **stagger**, **stagger direction**, and **easing**.

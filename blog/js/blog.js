@@ -1,0 +1,1 @@
+import articles from"/data/articles.js";import createArticle from"/js/create-article.js";const articlesListEle=document.getElementById("articles-list"),articlesFrg=document.createDocumentFragment();articles.forEach(e=>articlesFrg.appendChild(createArticle(e))),articlesListEle.appendChild(articlesFrg);

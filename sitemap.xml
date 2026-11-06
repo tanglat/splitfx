@@ -3,37 +3,47 @@
 
     <url>
         <loc>https://splitfx.pages.dev/</loc>
-        <lastmod>2026-09-24</lastmod>
+        <lastmod>2026-11-06</lastmod>
     </url>
 
     <url>
         <loc>https://splitfx.pages.dev/docs/latest</loc>
-        <lastmod>2026-09-24</lastmod>
+        <lastmod>2026-11-06</lastmod>
     </url>
 
     <url>
         <loc>https://splitfx.pages.dev/demos/</loc>
-        <lastmod>2026-09-24</lastmod>
+        <lastmod>2026-11-06</lastmod>
     </url>
 
     <url>
         <loc>https://splitfx.pages.dev/studio/</loc>
-        <lastmod>2026-09-24</lastmod>
+        <lastmod>2026-11-06</lastmod>
+    </url>
+
+    <url>
+        <loc>https://splitfx.pages.dev/blog/</loc>
+        <lastmod>2026-11-06</lastmod>
     </url>
 
     <url>
         <loc>https://splitfx.pages.dev/license</loc>
-        <lastmod>2026-09-24</lastmod>
+        <lastmod>2026-11-06</lastmod>
     </url>
 
     <url>
         <loc>https://splitfx.pages.dev/terms</loc>
-        <lastmod>2026-09-24</lastmod>
+        <lastmod>2026-11-06</lastmod>
     </url>
 
     <url>
         <loc>https://splitfx.pages.dev/privacy</loc>
-        <lastmod>2026-09-24</lastmod>
+        <lastmod>2026-11-06</lastmod>
+    </url>
+
+    <url>
+        <loc>https://splitfx.pages.dev/blog/how-to-animate-text-on-scroll-with-javascript/</loc>
+        <lastmod>2026-11-06</lastmod>
     </url>
 
 </urlset>
